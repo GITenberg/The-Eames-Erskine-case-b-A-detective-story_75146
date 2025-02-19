@@ -1,0 +1,36 @@
+_repo: The-Eames-Erskine-case-b-A-detective-story_75146
+_version: 0.0.1
+alternative_title: The Eames Erskine case
+creator:
+  author:
+    agent_name: Fielding, A. (Archibald)
+    aliases:
+    - Fielding, A. E. (Archibald E.)
+    - Fielding, Archibald E.
+    - Feilding, Dorothy
+    birthdate: 1900
+    gutenberg_agent_id: '57855'
+    url: http://www.gutenberg.org/2009/agents/57855
+description: ''
+gutenberg_issued: '2025-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75146'
+  lccn: '25009299'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000205651
+pgterms:marc905: 20240601165109fielding
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bA. L. Burt Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Eames-Erskine case : $b A detective story'
+url: http://www.gutenberg.org/ebooks/75146
