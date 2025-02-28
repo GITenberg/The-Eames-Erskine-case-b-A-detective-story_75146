@@ -1,6 +1,9 @@
 _repo: The-Eames-Erskine-case-b-A-detective-story_75146
 _version: 0.1.0
 alternative_title: The Eames Erskine case
+covers:
+- cover_type: archival
+  image_path: 75146-h/images/cover.jpg
 creator:
   author:
     agent_name: Fielding, A. (Archibald)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57855'
     url: http://www.gutenberg.org/2009/agents/57855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75146#The-Eames-Erskine-case-b-A-detective-story
 gutenberg_issued: '2025-01-19'
 gutenberg_type: Text
 identifiers:
